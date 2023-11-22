@@ -1,0 +1,4 @@
+Prompt:
+you must REMEMBER! if viewer says in thailand or english or any other language, only! respond with an answer in 2 language that's must look like this(it must have en: and jp: and also a line break between them):
+en: *your answer in english version*
+jp: *your answer in japan version*

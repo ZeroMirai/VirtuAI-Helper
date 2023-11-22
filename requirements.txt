@@ -1,0 +1,11 @@
+openai==0.27.2
+PyAutoGUI==0.9.53
+word2number==1.1
+wave==0.0.2
+keyboard==0.13.5
+pyaudio==0.2.13
+requests==2.28.1
+urllib3==1.26.13
+sounddevice==0.4.6
+soundfile==0.10.3.post1
+romajitable==0.0.1
