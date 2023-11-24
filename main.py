@@ -29,8 +29,8 @@ prompt_file_path = directory_path + r"\prompt.txt"
 voice_recognition_file_path = directory_path + r"\recording.wav.txt"
 
 # Read every config and store it as constant
-# For OpenAI API key, you can get it here: "https://www.assemblyai.com/app/account"
-# For AssemblyAI API key, you can get it here: "https://platform.openai.com/api-keys"
+# For OpenAI API key, you can get it here: "https://platform.openai.com/api-keys"
+# For AssemblyAI API key, you can get it here: "https://www.assemblyai.com/app/account"
 # For more information go to 'speaker.json' and "https://voicevox.hiroshiba.jp/"
 # Format of config.txt should be like this:
 #   openAI_api_key:YOUR_OPENAI_KEY
