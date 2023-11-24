@@ -9,3 +9,4 @@ urllib3==1.26.13
 sounddevice==0.4.6
 soundfile==0.10.3.post1
 romajitable==0.0.1
+numpy==1.23.5
