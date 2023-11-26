@@ -78,7 +78,7 @@ def create_respond(
             {"role": "system", "content": prompt_content},
             {
                 "role": "user",
-                "content": f"this is chat log:{chat_log_content} this is what user said: {user_input}",
+                "content": f"{chat_log_content}\n this is what user saying now: {user_input}",
             },
         ]
         chat = openai.ChatCompletion.create(model=openai_model, messages=messages)
