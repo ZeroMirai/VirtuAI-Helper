@@ -4,6 +4,23 @@ VirtuAI Helper is a python-based program that can execute scripts based on user 
 
 ![Example Image](guide/example_1.gif)
 
+## Table of Contents
+
+- [VirtuAI-Helper](#virtuai-helper)
+  - [Features](#features)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [File Structure](#file-structure)
+  - [Configuration](#configuration)
+  - [Usage](#usage)
+  - [Use this code with obs and Vtuber studio](#use-this-code-with-obs-and-vtuber-studio)
+  - [Contributing](#contributing)
+    - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
+    - [Pull Requests](#pull-requests)
+  - [Note](#note)
+  - [License](#license)
+  - [Credits](#credits)
+
 ## Features
 
 - **Script Execution** You can use text or voice commands to execute scripts that perform various tasks on your device or on the web. For example, you can say “play music” or “open YouTube” and the program will execute the corresponding script.
