@@ -2,7 +2,7 @@ import textwrap
 import string
 
 
-# Function to read config file and reture it
+# Function to read config file and return it
 def read_config(config_file_path):
     with open(config_file_path, "r") as config_file:
         for line in config_file:
