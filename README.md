@@ -13,7 +13,6 @@ VirtuAI Helper is a python-based program that can execute scripts based on user 
   - [File Structure](#file-structure)
   - [Configuration](#configuration)
   - [Usage](#usage)
-  - [Use this code with obs and Vtuber studio](#use-this-code-with-obs-and-vtuber-studio)
   - [Contributing](#contributing)
     - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
     - [Pull Requests](#pull-requests)
