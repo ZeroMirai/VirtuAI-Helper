@@ -4,6 +4,10 @@ VirtuAI Helper is a python-based program that can execute scripts based on user 
 
 ![Example Image](guide/example_1.gif)
 
+## Simple flowchart
+
+![simple_flowchart](guide/simple_flowchart.png)
+
 ## Table of Contents
 
 - [VirtuAI-Helper](#virtuai-helper)
