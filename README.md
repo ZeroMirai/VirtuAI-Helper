@@ -47,12 +47,12 @@ Follow these steps to install and set up VirtuAI Helper.
    git clone https://github.com/ZeroMirai/VirtuAI-Helper.git
    ```
     
-3. Open a terminal or command prompt and change the directory to the project folder by typing `cd` followed by where this folder is located for example `cd C:\Git_hub\VirtuAI Helper`.
-4. Install all necessary library by typing.
+2. Open a terminal or command prompt and change the directory to the project folder by typing `cd` followed by where this folder is located for example `cd C:\Git_hub\VirtuAI Helper`.
+3. Install all necessary library by typing.
    ```
    pip install -r requirements.txt
    ```
-7. Configure the necessary API keys and other config in config.txt.
+4. Configure the necessary API keys and other config in config.txt.
 
 ## File Structure
 
@@ -96,14 +96,9 @@ Before running the program, Ensure you have changed all the configurations and *
 
 To use VirtuAI Helper with OBS and Vtuber studio, you can follow this guide in [How to use with OBS and Vtuber studio](how_to_use_with_obs_and_vtuber_studio.md). For normal usage in the terminal or command prompt, you can follow the guide below.
 
-1. Open a terminal or command prompt and change the directory to the project folder by typing `cd` followed by where this folder is located for example `cd C:\Git_hub\VirtuAI Helper`.
-2. Open VoiceVox engine.
-3. Run the program using.
-   ```
-   python main.py
-   ```
-5. Choose between text input (1) or voice input (2).
-6. Follow on-screen prompts and interact with VirtuAI Helper.
+1. Open VoiceVox engine.
+2. Open `run.bat`.
+3. Follow on-screen prompts and interact with VirtuAI Helper.
 
 ---
 ## Contributing
