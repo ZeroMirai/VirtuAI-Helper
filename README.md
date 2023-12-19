@@ -32,11 +32,11 @@ VirtuAI Helper is a python-based program that can execute scripts based on user 
 
 ## Prerequisites
 
-- **Python** 3.11 if you didn't have it download it from [here](https://www.python.org/downloads/).
-- **Voicevox software** Version 0.14.7 or higher if you didn't have it download it from [here](https://voicevox.hiroshiba.jp/), installed and running.
+- **Python** 3.11. Download it [here](https://www.python.org/downloads/).
+- **Voicevox software** Version 0.14.7. Download it [here](https://voicevox.hiroshiba.jp/), installed and running.
 - **API keys** from OpenAI and AssemblyAI, you can get it from here [OpenAI](https://platform.openai.com/api-keys), [AssemblyAI](https://www.assemblyai.com/app/account).
-- Open Broadcaster Software (_if you want the program to show the subtitle file_) if you didn't have it download it from [here](https://obsproject.com/).
-- Vtuber Studio, VoiceMeeter banana and EarTrumpet (_if you want the program to show virtual live2d_) if you didn't have it download it from [Vtuber Studio](https://denchisoft.com/), [VoiceMeeter banana](https://vb-audio.com/Voicemeeter/banana.htm), [EarTrumpet](https://eartrumpet.app/).
+- Open Broadcaster Software (_if you want the program to show the subtitle file_). Download it [here](https://obsproject.com/).
+- Vtuber Studio, VoiceMeeter banana and EarTrumpet (_if you want the program to show virtual live2d_) if you didn't have it download it from here [Vtuber Studio](https://denchisoft.com/), [VoiceMeeter banana](https://vb-audio.com/Voicemeeter/banana.htm), [EarTrumpet](https://eartrumpet.app/).
 
 ## Installation
 
@@ -56,21 +56,21 @@ Follow these steps to install and set up VirtuAI Helper.
 
 ## File Structure
 
-- `functions folder`: Contains modular components of the project.
-  - `chatgpt_interaction.py`: Handles interactions with the OpenAI GPT model.
-  - `condition.py`: Script execution if user input is match conditions.
-  - `record_voice.py`: voice recording function.
-  - `text_processing_utils.py`: Utilities for all script to processing text.
-  - `text_to_speech_utils.py`: Utilities for text-to-speech part.
-  - `voice_recognition.py`: Implements speech-to-text using the AssemblyAI API.
-- `text_log folder`: Stores various text logs and files.
-- `main.py`: Main script for executing the VirtuAI Helper program.
-- `config.txt`: File to store various configuration and API keys.
-- `prompt.txt`: File to store user prompts.
-- `recording.wav.txt`: Transript from speech-to-text.
-- `requirements.txt`: File to Install all necessary library.
-- `JP_Voice.wav`: A generated text-to-speech file.
-- `recording.wav`: Audio recording file.
+- 📁`functions`: Contains modular components of the project.
+  - 📝`chatgpt_interaction.py`: Handles interactions with the OpenAI GPT model.
+  - 📝`condition.py`: Script execution if user input is match conditions.
+  - 📝`record_voice.py`: voice recording function.
+  - 📝`text_processing_utils.py`: Utilities for all script to processing text.
+  - 📝`text_to_speech_utils.py`: Utilities for text-to-speech part.
+  - 📝`voice_recognition.py`: Implements speech-to-text using the AssemblyAI API.
+- 📝`text_log folder`: Stores various text logs and files.
+- 📝`main.py`: Main script for executing the VirtuAI Helper program.
+- 📝`config.txt`: File to store various configuration and API keys.
+- 📝`prompt.txt`: File to store user prompts.
+- 📝`recording.wav.txt`: Transript from speech-to-text.
+- 📝`requirements.txt`: File to Install all necessary library.
+- 📝`JP_Voice.wav`: A generated text-to-speech file.
+- 📝`recording.wav`: Audio recording file.
 
 ## Configuration
 
@@ -125,7 +125,7 @@ If you have suggestions or improvements.
 
 I'm primarily looking for code improvements and bug fixes. Once your changes are approved, they will be merged into the main project.
 
-### Share and Give a Star
+### ⭐ Share and Give a Star ⭐
 
 **If you find this project useful I would be really grateful if you could consider sharing this small project with others and giving it a star on GitHub.**
 
@@ -145,8 +145,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-- **OpenAI** - I used [OpenAI API](https://openai.com/) to generate responses with the chatGPT model.
-- **Voicevox** by Hiroshiba - I used [VoiceVox Engine](https://voicevox.hiroshiba.jp/) to synthesize speech in Japanese.
-- **AssemblyAI API** - I used [AssemblyAI API](https://www.assemblyai.com/) to convert speech to text.
-- **PyAutoGUI** - I used [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) to perform multimedia tasks such as playpause media, turn updown the volume, and capture the screen.
-- **Webbrowser**- I used [Webbrowser](https://docs.python.org/3/library/webbrowser.html) to open websites such as Facebook, YouTube, and Twitter.
+- **OpenAI** - Used to generate responses with the chatGPT model. For more information, visit [OpenAI API](https://openai.com/)
+- **Voicevox** by Hiroshiba - Used to synthesize speech in Japanese. For more information, visit [VoiceVox Engine](https://voicevox.hiroshiba.jp/)
+- **AssemblyAI API** - Used to convert speech to text. For more information, visit [AssemblyAI API](https://www.assemblyai.com/)
+- **PyAutoGUI** - Used to perform multimedia tasks such as playpause media, turn updown the volume, and capture the screen. For more information, visit [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
+- **Webbrowser**- Used to open websites such as Facebook, YouTube, and Twitter. For more information, visit [Webbrowser](https://docs.python.org/3/library/webbrowser.html)
